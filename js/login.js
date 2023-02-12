@@ -1,5 +1,4 @@
 
-
 document.getElementById("btn-submit").addEventListener('click',function(){
 
     const emailFiled=document.getElementById('user-email');
